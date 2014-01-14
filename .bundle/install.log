@@ -1,0 +1,16 @@
+# Logfile created on 2014-01-13 19:47:26 -0800 by logger.rb/44203
+I, [2014-01-13T19:47:26.512094 #88770]  INFO -- : 0:  rake (10.1.1) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-13T19:47:26.512367 #88770]  INFO -- : 0:  addressable (2.3.5) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/addressable-2.3.5.gemspec
+I, [2014-01-13T19:47:26.512589 #88770]  INFO -- : 0:  mime-types (2.0) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/mime-types-2.0.gemspec
+I, [2014-01-13T19:47:26.512819 #88770]  INFO -- : 0:  mini_portile (0.5.2) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-13T19:47:26.513022 #88770]  INFO -- : 0:  nokogiri (1.6.1) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-13T19:47:26.513205 #88770]  INFO -- : 0:  rack (1.5.2) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-13T19:47:26.513394 #88770]  INFO -- : 0:  rack-test (0.6.2) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-13T19:47:26.513595 #88770]  INFO -- : 0:  xpath (2.0.0) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/xpath-2.0.0.gemspec
+I, [2014-01-13T19:47:26.513824 #88770]  INFO -- : 0:  capybara (2.2.1) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/capybara-2.2.1.gemspec
+I, [2014-01-13T19:47:26.514037 #88770]  INFO -- : 0:  cliver (0.3.2) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/cliver-0.3.2.gemspec
+I, [2014-01-13T19:47:29.268219 #88770]  INFO -- : 0:  launchy (2.4.2) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/launchy-2.4.2.gemspec
+I, [2014-01-13T19:47:30.029672 #88770]  INFO -- : 0:  multi_json (1.8.4) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-13T19:47:30.030085 #88770]  INFO -- : 0:  websocket-driver (0.3.2) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/websocket-driver-0.3.2.gemspec
+I, [2014-01-13T19:47:30.030369 #88770]  INFO -- : 0:  poltergeist (1.5.0) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0/specifications/poltergeist-1.5.0.gemspec
+I, [2014-01-13T19:47:30.030577 #88770]  INFO -- : 0:  bundler (1.5.1) from /Users/joslynrosbrook/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
